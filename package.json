@@ -1,0 +1,1 @@
+{"description":"The worst app idea ever pitched: MeowTranslate, a cat-meow translator that confidently translates every meow as \"I'm bored\".","license":"MIT","main":"main.ts","name":"worst-app-idea","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
